@@ -72,7 +72,7 @@ Meaning of results image position:
 
 **blurry_moon.bmp** (466×540):   
 <img src="outputs/deblurr_scale_blurry_moon.png" alt="drawing" width="49%"/>
-<img src="blurry_moon.png" alt="drawing" width="49%"/>
+<img src="blurry_moon_for_readme.png" alt="drawing" width="49%"/>
 <img src="outputs/deblurr_clamp_blurry_moon.png" alt="drawing" width="49%"/>
 <img src="outputs/deblurr_clamp_boost_blurry_moon.png" alt="drawing" width="49%"/>
 <img src="outputs/laplacian_clamp_blurry_moon.png" alt="drawing" width="49%"/>
