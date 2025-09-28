@@ -1,0 +1,13 @@
+/.vscode
+/*.exe
+**/*.o
+**/*.d
+
+*.dll
+*.zip
+
+
+
+# https://github.com/github/gitignore/blob/main/CMake.gitignore
+# or Just out-of-source build
+/build
